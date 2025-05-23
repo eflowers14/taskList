@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "bakcend.js",
   "scripts": {
-    "start": "node backend.js"
+    "start": "node bakcend.js"
   },
   "dependencies": {
     "express": "^4.18.2",
